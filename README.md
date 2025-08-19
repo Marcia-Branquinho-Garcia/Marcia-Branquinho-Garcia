@@ -1,18 +1,25 @@
 <div align="center">
-  <img src="./avatar.png" width="250px" />
+  <img src="./avatar.jpg" width="250px" />
 </div>
 
-<!--
-**Marcia-Branquinho-Garcia/Marcia-Branquinho-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  Olá, queridos! Eu sou a Márcia Branquinho Garcia 👋
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>
+    🚀 Feliz em dar meus primeiros passos na programação 🚀
+  </h3>
+</div>
+
+<br>
+
+> Completei 60 anos em 18 de julho de 2025. Graças a uma bolsa de estudo da **Oracle** e da **Alura**, estou participando da Turma 9 do programa **Oracle Next Education (ONE)**.
+>
+> Na minha idade, muitos não sabem nem fazer um pix, mas eu estou aprendendo a programar. Que vitória!
+>
+> Atribuo essa conquista ao meu Deus, pois sem Ele, o que seria de mim?
+
+---
