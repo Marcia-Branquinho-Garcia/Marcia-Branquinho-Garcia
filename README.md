@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="./avatar.jpg" width="250px" />
+</div>
 
 <!--
 **Marcia-Branquinho-Garcia/Marcia-Branquinho-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
